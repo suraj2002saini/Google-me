@@ -1,0 +1,44 @@
+img{
+    width:  30%;
+    margin: auto;
+    display: block;
+    margin-top: 10%;
+    padding: 10px;
+    border: 10px;
+    
+}
+
+input{
+    display: block;
+    margin: auto;
+    width: 50%;
+    height: 33px;
+    border-radius: 20px;
+    border-style:ridge;
+    
+    
+}
+
+button{
+    display: flexbox;
+    border-style: hidden;
+    
+}
+
+.one{
+    margin-top: 20px;
+    margin-left: 35%;
+    border-radius: 5px ;
+    height: 30px;
+    
+
+}
+
+.two{
+    margin-left: 10px;
+    border-radius: 5px;
+    height: 30px;
+    
+}
+
+
